@@ -322,3 +322,4 @@ Các bạn nên lưu ý là trong 1 step chỉ có duy nhất một reader, proc
 2021-02-28 15:34:18.866  INFO 16364 --- [           main] o.s.b.c.l.support.SimpleJobLauncher      : Job: [FlowJob: [name=importUserJob]] completed with the following parameters: [{run.id=1}] and the following status: [COMPLETED] in 81ms
 ```
 
+Bạn có thể tham khảo thêm [tại dây](https://github.com/pkainulainen/spring-batch-examples)
